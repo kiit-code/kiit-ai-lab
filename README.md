@@ -5,10 +5,10 @@
 
 ### Lab-02: Solve a Maze using BFS and DFS
 
-### Agentic AI tutorial (phidata and groq)
+### Lab-03: Agentic AI tutorial (phidata and groq)
 
-### Implement UCS and A* algorithms
+### Lab-04: Implement UCS and A* algorithms
 
-### Implement Hill Climbing and Generic Algorithms
+### Lab-05: Implement Hill Climbing and Generic Algorithms
 
-### (projected) implement minmax
+### Lab-06: (projected) implement minmax
