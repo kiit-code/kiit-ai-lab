@@ -16,4 +16,4 @@
 
 
 
-Professor: @cserajdeep
+Created under the guidance of [Dr. Rajdeep Chatterjee](https://github.com/cserajdeep)'s class.
