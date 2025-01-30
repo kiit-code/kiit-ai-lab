@@ -11,4 +11,4 @@
 
 ### Lab-05: Implement Hill Climbing and Generic Algorithms
 
-### Lab-06: (projected) implement minmax
+### Lab-06: Test (Implement GA for a Space Optimisation Problem and A* Search Algorithm)
