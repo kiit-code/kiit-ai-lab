@@ -13,6 +13,7 @@
 
 ### Lab-06: Test (Implement GA for a Space Optimisation Problem and A* Search Algorithm)
 
+### Lab-07: Agentic AI (Implement 3 agents from Agno's cookbook)
 
 
 
